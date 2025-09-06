@@ -13,5 +13,5 @@ It can detect and read vehicle license plates from both **images** and **videos*
 | Original | Processed |
 |----------|-----------|
 | ![Original1](Resources/Raw/car1.jpg) | ![Processed1](Resources/Processed/car1%20(processed).jpg) |
-| ![Original2](Resources/Raw/car2.jpeg) | ![Processed1](Resources/Processed/car2%20(processed).jpg) |
+| ![Original2](Resources/Raw/car2.jpeg) | ![Processed1](Resources/Processed/car2%20(processed).jpeg) |
 | ![Original3](Resources/Raw/traffic.jpg) | ![Processed1](Resources/Processed/traffic%20(processed).jpg) |
