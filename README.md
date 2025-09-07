@@ -1,4 +1,4 @@
-# License Plate Recognition
+# License plate recognition
 
 This project is a **license plate recognition program** using **OpenCV** and **pytesseract**.  
 It can detect and read vehicle license plates from both **images** and **videos**.
